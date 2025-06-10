@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hi, I’m @rtwkrjj
+# 👋 I’m @rtwkrjj
 
 - 👀 I’m interested in *problem solving, **competitive programming, and **Data Visualization*.
 - 🌱 I’m currently learning *Data Structures & Algorithms (DSA)* and exploring *Python *.
